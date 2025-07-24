@@ -1,4 +1,4 @@
-<h1 align="center">はじめまして。I'm Katherine</h1>
+<h1 align="center">はじめまして。I'm Katherine Schumacher.</h1>
 <h3 align="center">I'm an aspiring full-stack developer who's passionate about writing code that's easy to read, maintain, and share.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kateschumacher25&label=Profile%20views&color=0e75b6&style=flat" alt="kateschumacher25" /> </p>
