@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Shopping Cart](https://github.com/katekat25/shopping-cart)
 
-- 🌱 I’m currently learning **React, MongoDB, Node.JS**
+- 🌱 I’m currently learning **MongoDB, Node.JS**
 
 - 📫 How to reach me **kate.schumacher@gmail.com**
 
